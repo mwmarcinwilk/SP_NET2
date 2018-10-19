@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SP_NET" />
+        <module name="MODEL" />
+        <module name="SP_NET_API" />
+        <module name="SP_NET_WEB" />
       </profile>
     </annotationProcessing>
   </component>
