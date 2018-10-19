@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MODEL" />
-        <module name="SP_NET" />
         <module name="SP_NET_API" />
         <module name="SP_NET_WEB" />
       </profile>
